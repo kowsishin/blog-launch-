@@ -1,5 +1,5 @@
 # blog-launch
-college blog ,
+college blog -
 launch page ,
 login page ,
 register page ,
