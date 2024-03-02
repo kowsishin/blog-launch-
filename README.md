@@ -1,6 +1,6 @@
 # blog-launch
-college blog 
-launch page
-login page
-register page
-home page
+college blog ,
+launch page ,
+login page ,
+register page ,
+home page ,
